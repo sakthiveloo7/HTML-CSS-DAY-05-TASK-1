@@ -4,6 +4,8 @@
 
    - The developed website is about "Kazi Nazrul Islam".
      
+   - Kindly refer the "index.html" and "style.css" file for source code.
+     
    - Kindly Evaluvated My Submitted Task.
 
    --Thankyou.
